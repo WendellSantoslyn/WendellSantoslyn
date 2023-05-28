@@ -1,9 +1,9 @@
-## Bem-vindo ao perfil de MozzarellaZola
+## Bem-vindo ao perfil de WendellSantoslyn
 
  <div>
-   <a href="https://github.com/MozzarellaZola">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MozzarellaZola&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozzarellaZola&layout=compact&langs_count=6&theme=onedark"/>
+   <a href="https://github.com/WendellSantoslyn">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendellSantoslyn&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantoslyn&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
