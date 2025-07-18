@@ -13,8 +13,8 @@
 
  ### Github Stats
  <div align="center">
-  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api?username=WendellSantoslyn&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantoslyn&layout=compact&langs_count=6&theme=onedark"/>
+  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api?username=WendellSantoslyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantoslyn&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
  </div>
  
  ### Para contato profissional:
