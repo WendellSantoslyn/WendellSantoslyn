@@ -10,12 +10,6 @@
    No momento estou cursando superior de tecnologia em Desenvolvimento de Software Multiplataforma na FATEC Zona Sul, faculdade de tecnologia localizada em São Paulo. <br><br>
   Tenho interesse especial por jogos e seus bastidores, o que me levou a explorar o desenvolvimento de jogos e aprender modelagem 3D como hobby. Atualmente, estou estudando a Unreal Engine 5 e Blender, me aprofundando aos poucos nesse universo criativo e técnico que tanto me inspira.
 </p>
-
- ### Github Stats
- <div align="center">
-  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api?username=WendellSantoslyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantoslyn&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
- </div>
  
  ### Para contato profissional:
  <div>
