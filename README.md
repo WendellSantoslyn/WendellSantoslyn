@@ -6,7 +6,7 @@
 
 ### Sobre mim
 <p>
-   Me chamo Wendell, tenho 20 anos e estudo programação em busca de experiência com diferentes linguagens para descobrir com qual mais me identifico. <br><br>
+   Me chamo Wendell, estudo programação em busca de experiência com diferentes linguagens para descobrir com qual mais me identifico. <br><br>
    No momento estou cursando superior de tecnologia em Desenvolvimento de Software Multiplataforma na FATEC Zona Sul, faculdade de tecnologia localizada em São Paulo. <br><br>
   Tenho interesse especial por jogos e seus bastidores, o que me levou a explorar o desenvolvimento de jogos e aprender modelagem 3D como hobby. Atualmente, estou estudando a Unreal Engine 5 e Blender, me aprofundando aos poucos nesse universo criativo e técnico que tanto me inspira.
 </p>
